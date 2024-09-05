@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/mall/static/css/main.1c8209b6.css",
+    "main.js": "/mall/static/js/main.44e8e88c.js",
+    "static/js/453.f01195fd.chunk.js": "/mall/static/js/453.f01195fd.chunk.js",
+    "static/media/pu.jpg": "/mall/static/media/pu.567d0d1dbf9f152347c7.jpg",
+    "static/media/footer-bg.png": "/mall/static/media/footer-bg.530568c572d2ccb8dc6e.png",
+    "static/media/مولات-scaled.webp": "/mall/static/media/مولات-scaled.c92dfe6b0535fa723831.webp",
+    "static/media/صورة واتساب بتاريخ 1446-02-05 في 23.50.48_09a9985f.jpg": "/mall/static/media/صورة واتساب بتاريخ 1446-02-05 في 23.50.48_09a9985f.6b76a7d5105091930af1.jpg",
+    "static/media/صورة واتساب بتاريخ 1446-02-05 في 23.50.42_fdd25e3a.jpg": "/mall/static/media/صورة واتساب بتاريخ 1446-02-05 في 23.50.42_fdd25e3a.feba9a043692e70627bb.jpg",
+    "static/media/ن.png": "/mall/static/media/ن.9ef5615a1dd89eae6e30.png",
+    "static/media/arrow-down.png": "/mall/static/media/arrow-down.36dbb2516c11feb82acf.png",
+    "static/media/facebook_5968764.png": "/mall/static/media/facebook_5968764.49e67d43221b6bb1aa86.png",
+    "static/media/download (2).jpeg": "/mall/static/media/download (2).6ca10aa27d88c3efbd3c.jpeg",
+    "index.html": "/mall/index.html",
+    "static/media/download (1).svg": "/mall/static/media/download (1).dafd612e6cc47ceb181b.svg",
+    "static/media/download.svg": "/mall/static/media/download.12b105e174386c170ad8.svg",
+    "main.1c8209b6.css.map": "/mall/static/css/main.1c8209b6.css.map",
+    "main.44e8e88c.js.map": "/mall/static/js/main.44e8e88c.js.map",
+    "453.f01195fd.chunk.js.map": "/mall/static/js/453.f01195fd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c8209b6.css",
+    "static/js/main.44e8e88c.js"
+  ]
+}
